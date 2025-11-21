@@ -11,9 +11,6 @@
 - **3 dynamic pricing strategies** (Standard, Progressive, Time-Based)
 - **Transaction management** with entry/exit tracking
 - **Payment processing** with multiple payment methods
-- **Comprehensive audit logging** for compliance
-- **Analytics & reporting** with statistics aggregation
-- **Database-backed persistence** (MySQL) with 12 optimized tables
 - **Exception-driven error handling** across all layers
 - **Complete driver code** with 5 real-world scenarios
 
