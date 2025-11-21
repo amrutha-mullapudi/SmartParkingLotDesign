@@ -113,7 +113,6 @@ SmartParkingLotDesign-1/
 ├── database/
 │   ├── 01_create_schema.sql ......................... Database creation (12 tables)
 │   ├── 02_insert_sample_data.sql ................... Sample data insertion
-│   ├── 03_create_indexes_views.sql ................ Indexes & 7 views
 │   └── DATABASE_SCHEMA_README.md ................... Schema documentation
 │
 └── README.md ....................................... This file
